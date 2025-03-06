@@ -1,5 +1,3 @@
-Claro! Vamos explicar o código:
-
 ### Função `calculadora()`
 
 Esta função é uma calculadora simples que utiliza um loop `while` e uma estrutura `match-case` (similar ao `switch` em outras linguagens) para realizar operações matemáticas básicas.
